@@ -7,7 +7,7 @@ def fib(n):
 		a = b
 		b = c
 	print()
-fib(100000)
+fib(1000000000)
 
 x = 7
 y = 8
